@@ -1,0 +1,93 @@
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "2ii-ht-GfX"; */
+//"2ii-ht-GfX.text" = "Label";
+//
+///* Class = "UILabel"; text = "Temperature"; ObjectID = "3aP-rZ-6Lk"; */
+//"3aP-rZ-6Lk.text" = "Temperature";
+//
+///* Class = "UILabel"; text = "ww"; ObjectID = "AwA-JA-c4v"; */
+//"AwA-JA-c4v.text" = "ww";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "BeH-3Z-Y4o"; */
+//"BeH-3Z-Y4o.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "D9N-PX-OFe"; */
+//"D9N-PX-OFe.text" = "Label";
+//
+///* Class = "UILabel"; text = "Favorite list"; ObjectID = "DDM-c2-kUn"; */
+//"DDM-c2-kUn.text" = "Favorite list";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "J2b-ax-zDa"; */
+//"J2b-ax-zDa.text" = "Label";
+//
+///* Class = "UILabel"; text = "256"; ObjectID = "KKH-fY-zD3"; */
+//"KKH-fY-zD3.text" = "256";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "MGS-kO-Rgx"; */
+//"MGS-kO-Rgx.text" = "Label";
+//
+///* Class = "UILabel"; text = "Time format"; ObjectID = "MTo-2j-Pxc"; */
+//"MTo-2j-Pxc.text" = "Time format";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "O1K-vi-iUL"; */
+//"O1K-vi-iUL.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "QO0-0u-UA2"; */
+//"QO0-0u-UA2.text" = "Label";
+//
+///* Class = "UILabel"; text = "256"; ObjectID = "RFX-PC-83G"; */
+//"RFX-PC-83G.text" = "256";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "TVc-yF-Yz3"; */
+//"TVc-yF-Yz3.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "dky-3R-Eml"; */
+//"dky-3R-Eml.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "dsn-VR-u4s"; */
+//"dsn-VR-u4s.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "e0o-hh-4q8"; */
+//"e0o-hh-4q8.text" = "Label";
+//
+///* Class = "UISegmentedControl"; i4A-66-hpC.segmentTitles[0] = "°C"; ObjectID = "i4A-66-hpC"; */
+//"i4A-66-hpC.segmentTitles[0]" = "°C";
+//
+///* Class = "UISegmentedControl"; i4A-66-hpC.segmentTitles[1] = "K"; ObjectID = "i4A-66-hpC"; */
+//"i4A-66-hpC.segmentTitles[1]" = "K";
+//
+///* Class = "UISegmentedControl"; i4A-66-hpC.segmentTitles[2] = "°F"; ObjectID = "i4A-66-hpC"; */
+//"i4A-66-hpC.segmentTitles[2]" = "°F";
+//
+///* Class = "UILabel"; text = "AEngelholm Municipality "; ObjectID = "jAU-1C-qCo"; */
+//"jAU-1C-qCo.text" = "AEngelholm Municipality ";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "jPR-cf-AoH"; */
+//"jPR-cf-AoH.text" = "Label";
+//
+///* Class = "UILabel"; text = "Clear"; ObjectID = "kNw-p4-nDX"; */
+//"kNw-p4-nDX.text" = "Clear";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "kbU-7S-SfO"; */
+//"kbU-7S-SfO.text" = "Label";
+//
+///* Class = "UILabel"; text = "Settings"; ObjectID = "lb9-23-20a"; */
+//"lb9-23-20a.text" = "Settings";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "mtL-DI-gKs"; */
+//"mtL-DI-gKs.text" = "Label";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "nrL-Xb-ehW"; */
+//"nrL-Xb-ehW.text" = "Label";
+//
+///* Class = "UISearchBar"; uhS-1f-Wv9.scopeButtonTitles[0] = "All cities"; ObjectID = "uhS-1f-Wv9"; */
+//"uhS-1f-Wv9.scopeButtonTitles[0]" = "All cities";
+//
+///* Class = "UISearchBar"; uhS-1f-Wv9.scopeButtonTitles[1] = "1"; ObjectID = "uhS-1f-Wv9"; */
+//"uhS-1f-Wv9.scopeButtonTitles[1]" = "1";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "viA-Tx-3V9"; */
+//"viA-Tx-3V9.text" = "Label";
+//
+///* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wh0-jM-1i7"; */
+//"wh0-jM-1i7.normalTitle" = "Save";
